@@ -15,4 +15,4 @@ dependencies:
   version: v0.0.2
 - name: ng-python-2019062001
   repository: http://jenkins-x-chartmuseum:8080
-  version: v0.0.1
+  version: v0.0.2
