@@ -16,3 +16,6 @@ dependencies:
 - name: ng-python-2019062001
   repository: http://jenkins-x-chartmuseum:8080
   version: v0.0.2
+- name: ng-springweb-2019062001
+  repository: http://jenkins-x-chartmuseum:8080
+  version: v0.0.2
